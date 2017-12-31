@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Code-Kata\bin\Debug\CodeKata.exe.config
+C:\Users\User\Documents\Code-Kata\bin\Debug\CodeKata.exe
+C:\Users\User\Documents\Code-Kata\bin\Debug\CodeKata.pdb
+C:\Users\User\Documents\Code-Kata\obj\Debug\CodeKata.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Code-Kata\obj\Debug\CodeKata.exe
+C:\Users\User\Documents\Code-Kata\obj\Debug\CodeKata.pdb
